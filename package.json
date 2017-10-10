@@ -1,0 +1,17 @@
+{
+  "name": "homebridge-ledstrip",
+  "version": "1.0.0",
+  "description": "Homebridge LED strip light plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  }
+}
